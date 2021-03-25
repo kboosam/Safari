@@ -17,7 +17,7 @@ numpy==1.14.0
 pandas==0.22.0
 python-dateutil==2.6.1
 pytz==2017.3
-PyYAML==3.12
+PyYAML==5.4
 raven==6.4.0
 rope-py3k==0.9.4.post1
 scikit-learn==0.19.1
